@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙 
 
-Meu nome é Heloisa Mrtins 
+Meu nome é Heloisa Martins 
 - estou estudando pela plataforma alura
 -Estou aprendo como usar
 -Utilizo esse espaço nas aulas de técnologia e Robótica
